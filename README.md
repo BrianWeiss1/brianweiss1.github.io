@@ -4,6 +4,7 @@ Hands-On-Project Portfolio
 ### Crypto-Analyzer/Forex-Analyzer
 
 [Trading Bot Explaination](https://www.youtube.com/watch?v=ljYHgxG8SoY)
+
 [Trading Bot ROI](https://www.youtube.com/watch?v=-OEj39bhRKQ)
 
 
@@ -43,6 +44,12 @@ Hands-On-Project Portfolio
 ### Leetcode
 
 [Youtube Video](https://youtu.be/Shm8RYn3PK0)
+
+
+### Ad campaign
+
+[Ad Campaign (posted on youtube)](https://youtube.com/shorts/-bSGIAlYdso)
+
 
 
 
