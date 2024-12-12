@@ -1,4 +1,3 @@
-# brianweiss1.github.io
 Hands-On-Project Portfolio 
 
 ### Crypto-Analyzer/Forex-Analyzer
