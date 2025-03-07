@@ -1,5 +1,10 @@
 Hands-On-Project Portfolio 
 
+### Resarch Paper 
+
+[Youtube Video](https://www.youtube.com/watch?v=U-4gGMT2RnY)
+
+
 ### Crypto-Analyzer/Forex-Analyzer
 
 [Trading Bot Explaination](https://www.youtube.com/watch?v=ljYHgxG8SoY)
@@ -22,27 +27,10 @@ Hands-On-Project Portfolio
 [Youtube Video](https://youtu.be/B6ze-4d0DWw)
 
 
-### Resarch Paper (Unfinished)
-
-[Youtube Video](https://www.youtube.com/watch?v=-B-K4E4gc-g)
-
-
 ### AdventOfCode 
 
 [Youtube Video](https://youtu.be/XrchEBQFlQs)
 
-### Solidity Contracts 
-
-[Youtube Video](https://youtu.be/cFI20suWzLM)
-
-### Calulator 
-
-[Youtube Video](https://youtu.be/2ex-BQDppx0)
-
-
-### Leetcode
-
-[Youtube Video](https://youtu.be/Shm8RYn3PK0)
 
 
 ### Ad campaign
